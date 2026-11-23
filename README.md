@@ -1,48 +1,48 @@
-# Hi, I'm Sebas! 👋
+# Hello; I'm Sebas! 👋
 
-### Computer Systems Engineering Student | Programming Technician
+### Programming Technician | Computer Systems Engineering Student
 
-I'm a Computer Systems Engineering student with a technical background in programming.
+I'm a computer systems engineering student with a programming technical background.
 
-I have experience with programming fundamentals and web development, and I'm currently focused on strengthening my technical skills through continuous learning and personal projects.
+Currently focused on improving my technical abilities through ongoing education and personal projects, I have knowledge of programming basics and web development.
 
-I enjoy solving problems, learning new technologies, and building practical software solutions.
+I like learning new technology, building useable software solutions, and troubleshooting problems.
 
-## 👨‍💻 About Me
+## 👨‍💻 My Background
 
-- 🎓 Currently studying Computer Systems Engineering.
-- 💻 Technical background in Programming.
-- 🌱 Continuously improving my software development skills.
-- 🎯 Interested in Software Engineering and Backend Development.
-- 🌎 Based in Mexico, interested in international opportunities.
+- Learning Computer Systems Engineering at this moment.
+- 💻 Background in programming technology.
+- 🌱 Always enhancing my knowledge in software development.
+- Want to learn backend development and software engineering.
+- Based in Mexico, seeking worldwide possibilities.
 
-## 🚀 Technologies & Tools
+## 🚀 Tools & Technologies
 
 - Java
-- JavaScript
+- Javascript
 - HTML5
 - CSS3
-- Git & GitHub
+- Git and GitHub
 
-## 📚 Currently Learning
+## 📖 Learning Now
 
-- Object-Oriented Programming
-- Database Management
+- Object-Oriented Development
+- Control of Databases
 - SQL
-- Backend Development
-- Software Engineering Fundamentals
+Backend Development
+- Foundations of Software Engineering
 
 ## 📂 Projects
 
-Personal projects coming soon.
+Upcoming personal initiatives.
 
-## 🎯 Career Goals
+## 🎯 Professional Goals
 
-- Build practical software applications.
-- Strengthen my programming skills.
-- Develop a professional software portfolio.
-- Prepare for international software engineering opportunities.
+Create useful computer programs.
+- Improve my programming abilities.
+- Create a professional software portfolio.
+- Get ready for global software engineering chances.
 
 ---
 
-*Always learning, building, and improving.*
+*Always developing, learning, and getting better. *
