@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sebas! 👋
 
-<!--
-**sebascisher15/sebascisher15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Systems Engineering Student | Programming Technician
 
-Here are some ideas to get you started:
+I'm a Computer Systems Engineering student with a technical background in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience with programming fundamentals and web development, and I'm currently focused on strengthening my technical skills through continuous learning and personal projects.
+
+I enjoy solving problems, learning new technologies, and building practical software solutions.
+
+## 👨‍💻 About Me
+
+- 🎓 Currently studying Computer Systems Engineering.
+- 💻 Technical background in Programming.
+- 🌱 Continuously improving my software development skills.
+- 🎯 Interested in Software Engineering and Backend Development.
+- 🌎 Based in Mexico, interested in international opportunities.
+
+## 🚀 Technologies & Tools
+
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Database Management
+- SQL
+- Backend Development
+- Software Engineering Fundamentals
+
+## 📂 Projects
+
+Personal projects coming soon.
+
+## 🎯 Career Goals
+
+- Build practical software applications.
+- Strengthen my programming skills.
+- Develop a professional software portfolio.
+- Prepare for international software engineering opportunities.
+
+---
+
+*Always learning, building, and improving.*
